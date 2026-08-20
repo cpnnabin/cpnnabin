@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://nabindhakal28.com.np/" target="_blank">🌐 <b>nabindhakal28.com.np</b></a> •
-    <a href="mailto:adampithewan@gmail.com">📫 <b>Get In Touch</b></a>
+    <a href="mailto:cpnnabingovnp@gmail.com">📫 <b>Get In Touch</b></a>
   </p>
 
   <p>
