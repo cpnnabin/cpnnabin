@@ -125,14 +125,7 @@ MERN-stack academic project built for Patan College coursework (CIS051-2).
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpnnabin&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff&hide_border=false&border_color=30363d&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpnnabin&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&hide_border=false&border_color=30363d" alt="Most Used Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpnnabin&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&currStreakLabel=58a6ff&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="99%" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=cpnnabin&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff&hide_border=false&border_color=30363d" alt="GitHub Stats" width="49%" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cpnnabin&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&hide_border=false&border_color=30363d" alt="Most Used Languages" width="49%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=cpnnabin&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&currStreakLabel=58a6ff&border=30363d&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="99%" /> </p>
 
 ---
 
